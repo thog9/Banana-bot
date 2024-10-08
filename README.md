@@ -20,7 +20,7 @@ BOT Click: [BANANA BOT](https://t.me/OfficialBananaBot/banana?startapp=referral=
 ```sh
 git clone https://github.com/thog9/Banana-bot.git
 ```
-``sh
+```sh
 cd Banana-bot
 ```
 2. **Install Module:**
